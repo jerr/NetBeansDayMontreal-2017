@@ -1,2 +1,20 @@
-# NetBeansDayMontreal-2017
-JBossForge with NetBeans at NetBeansDay Montreal 2017
+= NetBeans Day Montreal 2017
+
+== JBossForge NetBeans Plugin, prototype your JEE Applications in few minutes
+
+JBoss Forge is a great tool that extends your Java IDE. It integrates different technologies and solutions by providing lots of add-ons.
+In this presentation, we will see how easily create a Java EE application in few minutes and how to create our own extension for NetBeans. Take the challenge!
+
+=== Installation 
+
+**Shell command line mode:**
+
+* Download it, unzip it and use it. That's it!
+* http://forge.jboss.org/document/installation
+
+**Install NetBeans JBossForge Plugin:**
+
+* On the NetBeans Menu Bar choose Tools and further choose the Plugins menu option.
+* The Plugins dialog box opens up the Available Plugins tab by default.
+* Search "JBoss Forge", select it and Click the install button on the Bottom-left corner.
+* Follow the instructions to complete the installation.

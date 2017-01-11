@@ -18,3 +18,9 @@ In this presentation, we will see how easily create a Java EE application in few
 * The Plugins dialog box opens up the Available Plugins tab by default.
 * Search "JBoss Forge", select it and Click the install button on the Bottom-left corner.
 * Follow the instructions to complete the installation.
+
+=== Demo Shell Commands 
+
+=== Demo NetBeans
+
+=== Demo Create an addon

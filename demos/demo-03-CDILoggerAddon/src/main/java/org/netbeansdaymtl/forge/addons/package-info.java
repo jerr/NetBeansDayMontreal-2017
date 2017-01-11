@@ -1,0 +1,1 @@
+package org.netbeansdaymtl.forge.addons;
